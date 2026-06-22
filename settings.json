@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cpuraiders.falix.gg",
-    "port": 29600,
+    "ip": "aluc.falix.gg",
+    "port": 25904,
     "version": "",
     "try-creative": false
   },
